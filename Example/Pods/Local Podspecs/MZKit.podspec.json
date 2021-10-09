@@ -1,0 +1,22 @@
+{
+  "name": "MZKit",
+  "version": "0.1.0",
+  "summary": "A short description of MZKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ZSMJ1991/MZKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZSMJ1991": "1175569871@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/ZSMJ1991/MZKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MZKit/Classes/**/*"
+}
